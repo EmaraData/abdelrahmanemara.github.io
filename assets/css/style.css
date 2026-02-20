@@ -714,4 +714,9 @@ small {
   #intro.section {
     background-position-x: 30%;
   }
+/* تصغير خط وصف المشاريع إجبارياً */
+  #projects .card-content p {
+    font-size: 14px !important;
+    line-height: 1.6 !important;
+}
 }
